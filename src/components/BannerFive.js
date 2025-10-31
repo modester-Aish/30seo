@@ -31,7 +31,7 @@ const BannerFive = () => {
                   data-aos-delay="250"
                   data-aos-duration="1500"
                 >
-                  The Ultimate SEO Tools Group Buy for 2024
+                  The Ultimate SEO Tools Group Buy
                 </h2>
                 <p
                   className="content pe-xl-4"
@@ -39,7 +39,7 @@ const BannerFive = () => {
                   data-aos-delay="350"
                   data-aos-duration="1500"
                 >
-                  Are you seeking the most comprehensive and cost-effective SEO tools to boost your website’s ranking? Look no further! Our 2024 best group buy SEO tools provider is tailored to meet the needs of digital marketers, content creators, and SEO professionals who are on the hunt for top-tier SEO resources without breaking the bank.
+                  Are you seeking the most comprehensive and cost-effective SEO tools to boost your website’s ranking? Look no further! Our best group buy SEO tools provider is tailored to meet the needs of digital marketers, content creators, and SEO professionals who are on the hunt for top-tier SEO resources without breaking the bank.
                 </p>
                 <Link
                   className="btn btn-border-base-2"

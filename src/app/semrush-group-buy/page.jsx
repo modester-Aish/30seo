@@ -8,6 +8,7 @@ import { FaCheckCircle } from "react-icons/fa";
 export const metadata = {
   title: "Semrush Group Buy | SEO GROUP BUY TOOLS",
   description: "Affordable Semrush group buy – Rank higher, grow faster with unlimited access and instant activation.",
+  alternates: { canonical: '/semrush-group-buy' },
 };
 
 const page = () => {

@@ -7,6 +7,7 @@ export const metadata = {
   title: "Full Tools Pricing | SEO GROUP BUY TOOLS",
   description:
     "Compare Lite, Small, Ahref$ Combo, and Mega plans with full tool lists and monthly pricing.",
+  alternates: { canonical: '/tools-pricing' },
 };
 
 const PlanCard = ({ title, price, items }) => (

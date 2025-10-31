@@ -11,6 +11,9 @@ export const generateMetadata = ({ params }) => {
   return {
     title: item ? `${item.shortTitle} | SEO GROUP BUY TOOLS` : 'Tool | SEO GROUP BUY TOOLS',
     description: item ? item.blurb : 'Single SEO tool.',
+    alternates: {
+      canonical: item ? `/single-seo-tools/${params.slug}` : '/single-seo-tools',
+    },
   };
 };
 

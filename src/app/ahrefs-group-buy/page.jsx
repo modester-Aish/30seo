@@ -8,6 +8,7 @@ import { FaCheckCircle } from "react-icons/fa";
 export const metadata = {
   title: "AHREFS Group Buy | SEO GROUP BUY TOOLS",
   description: "Affordable Ahrefs group buy – Rank higher, grow faster with unlimited access and instant activation.",
+  alternates: { canonical: '/ahrefs-group-buy' },
 };
 
 const page = () => {

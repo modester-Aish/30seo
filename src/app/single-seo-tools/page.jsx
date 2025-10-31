@@ -8,6 +8,7 @@ import { singleTools, SIGNUP_URL } from "@/components/singleToolsData";
 export const metadata = {
   title: "Single SEO Tools | SEO GROUP BUY TOOLS",
   description: "All single SEO and creative tools in one place: Ahrefs, Semrush, Grammarly, Envato Elements, Netflix, Prime Video, and more.",
+  alternates: { canonical: '/single-seo-tools' },
 };
 
 const page = () => {

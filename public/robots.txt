@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://30seotools.com/sitemap.xml
+Host: 30seotools.com
+
+
